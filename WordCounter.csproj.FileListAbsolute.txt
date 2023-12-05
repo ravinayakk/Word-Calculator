@@ -1,0 +1,17 @@
+C:\Users\rkn58\source\repos\WinFormsApp2\bin\Debug\net6.0-windows\WordCounter.exe
+C:\Users\rkn58\source\repos\WinFormsApp2\bin\Debug\net6.0-windows\WordCounter.deps.json
+C:\Users\rkn58\source\repos\WinFormsApp2\bin\Debug\net6.0-windows\WordCounter.runtimeconfig.json
+C:\Users\rkn58\source\repos\WinFormsApp2\bin\Debug\net6.0-windows\WordCounter.dll
+C:\Users\rkn58\source\repos\WinFormsApp2\bin\Debug\net6.0-windows\WordCounter.pdb
+C:\Users\rkn58\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\WordCounter.csproj.AssemblyReference.cache
+C:\Users\rkn58\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+C:\Users\rkn58\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\WordCounter.csproj.GenerateResource.cache
+C:\Users\rkn58\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\WordCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkn58\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\WordCounter.AssemblyInfoInputs.cache
+C:\Users\rkn58\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\WordCounter.AssemblyInfo.cs
+C:\Users\rkn58\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\rkn58\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\WordCounter.dll
+C:\Users\rkn58\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\refint\WordCounter.dll
+C:\Users\rkn58\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\WordCounter.pdb
+C:\Users\rkn58\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\WordCounter.genruntimeconfig.cache
+C:\Users\rkn58\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\ref\WordCounter.dll
